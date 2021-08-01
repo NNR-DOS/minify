@@ -1,0 +1,22 @@
+{% extends 'base.html.twig' %}
+{% block body %}
+    <h1>URL Minifier</h1>
+    {{ form_start(url_form) }}
+    <div class="url-form">
+        <div class="url-input">
+            <b>{{ form_label(url_form.url) }}</b><br/>
+            {{ form_widget(url_form.url) }}
+        </div>
+        <div class="url-input">
+            <b>{{ form_label(url_form.captchaCode) }}</b><br/>
+            {{ form_widget(url_form.captchaCode) }}
+        </div>
+        <div class="url-submit">
+            {{ form_row(url_form.submit) }}
+        </div>
+        <div class="url-errors">
+            {{ form_errors(url_form.url) }}
+        </div>
+    </div>
+    {{ form_end(url_form) }}
+{% endblock %}
