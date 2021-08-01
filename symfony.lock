@@ -1,4 +1,10 @@
 {
+    "captcha-com/captcha": {
+        "version": "4.2.5"
+    },
+    "carlos-mg89/symfony-captcha-bundle": {
+        "version": "4.2.21"
+    },
     "composer/package-versions-deprecated": {
         "version": "1.11.99.2"
     },
@@ -520,9 +526,6 @@
     },
     "symfony/string": {
         "version": "v5.3.3"
-    },
-    "symfony/test-pack": {
-        "version": "v1.0.8"
     },
     "symfony/translation": {
         "version": "5.3",
