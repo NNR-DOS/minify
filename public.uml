@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>62d0fa41-e162-4b95-9f0f-3a0f60070886.SCHEMA:postgres.public</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">62d0fa41-e162-4b95-9f0f-3a0f60070886.TABLE:postgres.public.doctrine_migration_versions</node>
+    <node x="0.0" y="145.0">62d0fa41-e162-4b95-9f0f-3a0f60070886.TABLE:postgres.public.link</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="131.5" y="111.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Comments</Category>
+    <Category>Key columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
