@@ -1,0 +1,59 @@
+.BDC_CaptchaDiv {
+    height: 78px !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    overflow: visible !important;
+}
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background: black;
+}
+
+a {
+    color: blue;
+}
+
+.container {
+    max-width: 400px;
+    margin: 45px auto auto;
+    padding: 15px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.url-form {
+    margin: 1em;
+}
+
+.url-form div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.url-input {
+    margin: .5em;
+}
+
+.url-submit {
+    display: flex;
+    justify-content: center;
+}
+
+form ul {
+    font-size: small;
+    color: red;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 0;
+}
