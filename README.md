@@ -1,6 +1,6 @@
 # minify
 
-[![Build Status](https://travis-ci.com/github/NNR-DOS/minify)
+[![Build Status](https://travis-ci.com/NNR-DOS/minify.svg?branch=main)](https://travis-ci.com/NNR-DOS/minify)
 
 Straightforward URL Shortener
 
